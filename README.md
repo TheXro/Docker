@@ -6,4 +6,10 @@
   
   With Docker, you can be confident that your application will run the same way on any machine, regardless of the underlying operating system or configuration. This not only saves time and effort but also enables seamless collaboration and faster deployment.
   
-# Whats a Container?
+  
+  
+# What are Docker Containers?
+Docker containers are an isolated environment for running applications, which means that they do not interfere with the host operating system.They allow developers to package an application with all its dependencies, libraries, and configuration files into a single container. The container can then be deployed on any machine that has Docker installed, without worrying about the underlying operating system or configuration. 
+
+
+They use the host operating system's kernel, which makes them lightweight and faster than traditional virtual machines.Docker containers only require the necessary components to run the application. This makes them more efficient and easier to manage.
